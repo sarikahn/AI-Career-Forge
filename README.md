@@ -23,7 +23,6 @@ AI Career Forge is a web application designed to assist users in optimizing thei
 - [Running the Project](#running-the-project)
 - [Building for Production](#building-for-production)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Screenshots 📸
@@ -266,14 +265,3 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4.  Push to the branch (`git push origin feature/your-feature-name`).
 5.  Open a Pull Request.
 
-Please ensure your code adheres to the existing style and that any new features are well-tested.
-
-## License 📄
-This project is licensed under the MIT License. See the `LICENSE` file for details (if one is created, otherwise assume MIT).
-
-## Contact 📧
-For questions or support, please reach out to [sushilpatel5113@gmail.com](mailto:sushilpatel5113@gmail.com).
-
----
-
-Made with ❤️ by @sushil930.
