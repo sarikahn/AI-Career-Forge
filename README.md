@@ -31,13 +31,10 @@ Here's a visual tour of AI Career Forge:
 
 <img width="1881" height="873" alt="screenshot-1752657460493" src="https://github.com/user-attachments/assets/a75dfc77-b706-4234-a054-bfe59d9eeee6" />
 <img width="1883" height="876" alt="Screenshot 2025-07-16 144141" src="https://github.com/user-attachments/assets/2f1c347f-7021-4dd7-a819-2c4151a6a051" />
-
 |![Screenshot_16-7-2025_14465_ai-career-forge vercel app](https://github.com/user-attachments/assets/ac32dcae-6837-4b5e-9c04-2ab8ea9dfc9c)
 ![Screenshot_16-7-2025_144814_ai-career-forge vercel app](https://github.com/user-attachments/assets/6ba930aa-01f7-469c-8aa2-b1527c0a9ad3)
-
 |![Screenshot_16-7-2025_154059_ai-career-forge vercel app](https://github.com/user-attachments/assets/c5fab808-fc9d-4bc6-9edc-7b68c76ca7e5)
 ![Screenshot_16-7-2025_142356_ai-career-forge vercel app](https://github.com/user-attachments/assets/12193b2e-a2b0-4c99-a50d-caa04886b2be)
-
 |![Screenshot_16-7-2025_154339_ai-career-forge vercel app](https://github.com/user-attachments/assets/63fd9fce-0d0e-4c3e-b562-6a1aa2c5c269)
 ![Screenshot_16-7-2025_154425_ai-career-forge vercel app](https://github.com/user-attachments/assets/c6a62071-8fae-4f3e-90b6-b53f3f15e0b8)
 
