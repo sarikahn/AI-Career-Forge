@@ -31,6 +31,7 @@ Here's a visual tour of AI Career Forge:
 
 <img width="1881" height="873" alt="screenshot-1752657460493" src="https://github.com/user-attachments/assets/a75dfc77-b706-4234-a054-bfe59d9eeee6" />
 <img width="1883" height="876" alt="Screenshot 2025-07-16 144141" src="https://github.com/user-attachments/assets/2f1c347f-7021-4dd7-a819-2c4151a6a051" />
+
 |![Screenshot_16-7-2025_14465_ai-career-forge vercel app](https://github.com/user-attachments/assets/ac32dcae-6837-4b5e-9c04-2ab8ea9dfc9c)
 ![Screenshot_16-7-2025_144814_ai-career-forge vercel app](https://github.com/user-attachments/assets/6ba930aa-01f7-469c-8aa2-b1527c0a9ad3)
 
