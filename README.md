@@ -29,23 +29,20 @@ AI Career Forge is a web application designed to assist users in optimizing thei
 ## Screenshots 📸
 Here's a visual tour of AI Career Forge:
 
-| Screenshot 1 | Screenshot 2 |
 |-----------<img width="1881" height="873" alt="screenshot-1752657460493" src="https://github.com/user-attachments/assets/a75dfc77-b706-4234-a054-bfe59d9eeee6" />
 ---|--------------|
 <img width="1883" height="876" alt="Screenshot 2025-07-16 144141" src="https://github.com/user-attachments/assets/2f1c347f-7021-4dd7-a819-2c4151a6a051" />
 
 | *Hero Section* | *Home Page* |
-
-| Screenshot 3 | Screenshot 4 |
-|--------------|--------------|
 |![Screenshot_16-7-2025_14465_ai-career-forge vercel app](https://github.com/user-attachments/assets/ac32dcae-6837-4b5e-9c04-2ab8ea9dfc9c)
 ![Screenshot_16-7-2025_144814_ai-career-forge vercel app](https://github.com/user-attachments/assets/6ba930aa-01f7-469c-8aa2-b1527c0a9ad3)
-
 | *Resume Analysis* | *Resume Builder* |
 
 | Screenshot 5 | Screenshot 6 |
 |--------------|--------------|
-| ![Screenshot 5](public/screenshots/Screenshot_16-7-2025_153954_ai-career-forge.vercel.app.jpeg) | ![Screenshot 6](public/screenshots/Screenshot_16-7-2025_154059_ai-career-forge.vercel.app.jpeg) |
+|![Screenshot_16-7-2025_154059_ai-career-forge vercel app](https://github.com/user-attachments/assets/c5fab808-fc9d-4bc6-9edc-7b68c76ca7e5)
+![Screenshot_16-7-2025_142356_ai-career-forge vercel app](https://github.com/user-attachments/assets/12193b2e-a2b0-4c99-a50d-caa04886b2be)
+
 | *Job Matching* | *Cover Letter Generation* |
 
 | Screenshot 7 | Screenshot 8 |
@@ -54,12 +51,6 @@ Here's a visual tour of AI Career Forge:
 ![Screenshot_16-7-2025_154425_ai-career-forge vercel app](https://github.com/user-attachments/assets/c6a62071-8fae-4f3e-90b6-b53f3f15e0b8)
 
 | *Cover Letter Result* | *Help & Tips* |
-
-| Screenshot 9 | Screenshot 10 |
-|--------------|--------------|
-| ![Screenshot 9](public/screenshots/Screenshot_16-7-2025_15444_ai-career-forge.vercel.app.jpeg) | ![Screenshot 10](public/screenshots/screenshot-1752657460493.png) |
-| *Used Documents* | *Dashboard* |
-
 ## Features ✨
 *   **User Authentication:** Secure signup and login functionality using Firebase Authentication.
 *   **Resume Upload & Parsing:** Users can upload resumes in PDF or DOCX format.
