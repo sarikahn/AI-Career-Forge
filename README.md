@@ -6,7 +6,8 @@
   </a>
 </p>
 
-![Banner](public/screenshots/banner1.png)
+<img width="1536" height="1024" alt="banner1" src="https://github.com/user-attachments/assets/0a712bc0-7abd-4210-92f1-d60f3b5385b0" />
+
 
 AI Career Forge is a web application designed to assist users in optimizing their resumes and matching them with suitable job descriptions using AI.
 
@@ -29,13 +30,17 @@ AI Career Forge is a web application designed to assist users in optimizing thei
 Here's a visual tour of AI Career Forge:
 
 | Screenshot 1 | Screenshot 2 |
-|--------------|--------------|
-| ![Screenshot 1](public/screenshots/Screenshot%202025-07-16%20144141.png) | ![Screenshot 2](public/screenshots/Screenshot_16-7-2025_142356_ai-career-forge.vercel.app.jpeg) |
+|-----------<img width="1881" height="873" alt="screenshot-1752657460493" src="https://github.com/user-attachments/assets/a75dfc77-b706-4234-a054-bfe59d9eeee6" />
+---|--------------|
+<img width="1883" height="876" alt="Screenshot 2025-07-16 144141" src="https://github.com/user-attachments/assets/2f1c347f-7021-4dd7-a819-2c4151a6a051" />
+
 | *Hero Section* | *Home Page* |
 
 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|
-| ![Screenshot 3](public/screenshots/Screenshot_16-7-2025_14465_ai-career-forge.vercel.app.jpeg) | ![Screenshot 4](public/screenshots/Screenshot_16-7-2025_144814_ai-career-forge.vercel.app.jpeg) |
+|![Screenshot_16-7-2025_14465_ai-career-forge vercel app](https://github.com/user-attachments/assets/ac32dcae-6837-4b5e-9c04-2ab8ea9dfc9c)
+![Screenshot_16-7-2025_144814_ai-career-forge vercel app](https://github.com/user-attachments/assets/6ba930aa-01f7-469c-8aa2-b1527c0a9ad3)
+
 | *Resume Analysis* | *Resume Builder* |
 
 | Screenshot 5 | Screenshot 6 |
@@ -45,7 +50,9 @@ Here's a visual tour of AI Career Forge:
 
 | Screenshot 7 | Screenshot 8 |
 |--------------|--------------|
-| ![Screenshot 7](public/screenshots/Screenshot_16-7-2025_154339_ai-career-forge.vercel.app.jpeg) | ![Screenshot 8](public/screenshots/Screenshot_16-7-2025_154425_ai-career-forge.vercel.app.jpeg) |
+ |![Screenshot_16-7-2025_154339_ai-career-forge vercel app](https://github.com/user-attachments/assets/63fd9fce-0d0e-4c3e-b562-6a1aa2c5c269)
+![Screenshot_16-7-2025_154425_ai-career-forge vercel app](https://github.com/user-attachments/assets/c6a62071-8fae-4f3e-90b6-b53f3f15e0b8)
+
 | *Cover Letter Result* | *Help & Tips* |
 
 | Screenshot 9 | Screenshot 10 |
