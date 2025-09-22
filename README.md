@@ -189,7 +189,7 @@ CORS_ORIGIN="http://localhost:5173" # Or your deployed frontend URL
 ## Installation 🛠️
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/sushil930/ai-career-forge.git
+    git clone https://github.com/sarikahn/ai-career-forge.git
     cd ai-career-forge
     ```
 
